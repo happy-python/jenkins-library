@@ -1,3 +1,3 @@
-def foo() {
-    println("vars foo")
+def call() {
+    println("vars foo call")
 }
