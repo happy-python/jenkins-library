@@ -5,6 +5,9 @@
 
 def tools = new org.devops.tools()
 
+//直接执行vars下面的内容
+foo()
+
 String workspace = "/opt/jenkins/workspace"
 
 pipeline {
